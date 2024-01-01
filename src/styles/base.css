@@ -1,0 +1,10 @@
+@tailwind base;
+
+@font-face {
+  font-family: "Poppins";
+  font-weight: 500 900;
+  src: url("../fonts/Poppins.woff2");
+  font-display: swap;
+  font-style: normal;
+  font-stretch: 75% 125%;
+}
