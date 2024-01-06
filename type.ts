@@ -32,3 +32,9 @@ export interface ProductProps {
   body: any;
   quantity: number;
 }
+
+export interface StateProps {
+  orebi: {
+    productData: ProductProps[];
+  };
+}
